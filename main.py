@@ -4,6 +4,7 @@ from configuration import API_TOKEN, TikTokLink, InstaLink
 import markups as NavButt
 
 
+
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 
